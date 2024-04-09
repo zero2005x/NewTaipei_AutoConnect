@@ -1,0 +1,45 @@
+1712649922008	geckodriver	INFO	Listening on 127.0.0.1:52745
+1712649925068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "527 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LIANGT~1\\AppData\\Local\\Temp\\rust_mozprofileyJbw51"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712649925479	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712649925534	Marionette	INFO	Listening on port 52763
+WebDriver BiDi listening on ws://127.0.0.1:52746
+Read port: 52763
+1712649925676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52746/devtools/browser/73b61f0d-a0eb-4548-84d2-1123585d7dbc
+1712649926477	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+1712649943632	geckodriver	INFO	Listening on 127.0.0.1:53015
+1712649946669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "530 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LIANGT~1\\AppData\\Local\\Temp\\rust_mozprofileKsvWwF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1712649946993	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712649947063	Marionette	INFO	Listening on port 53104
+WebDriver BiDi listening on ws://127.0.0.1:53016
+Read port: 53104
+1712649947208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53016/devtools/browser/ae48d1d7-166e-4692-8cf9-07e95d61d034
+1712649949654	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1712649953287	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://wifiplususer.cht.com.tw."
+1712649953869	Marionette	INFO	Stopped listening on port 53104
+JavaScript warning: https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=dLoAtutMU4j8vUf4j-4CgUyRCbVF71lNNoV8Z7Yw_O1iIPkd774j0EGV9i3KicdkT4fREh14nyJVjYQ2PWcGPP--WOGJDYyfrVaLirSnNrfKZQsszUpjga-zMxOool84dc8soTBVD7GGYiQP0a0viFccOISrs1LLe0WpGtxAXSvYFmK9P51eHYU_r8NSkke0g3jdfmZqdV_WMFQRkj9FCw-Ij1OCkwFSN7_whbsYzdGJFEHmSinxxVWUOa3xNJdNZJ_FM3lx6XNkJpGw1la1pqCitOA06Wveeq2lPi8GkoE99BYFnvBjeoeD039rQhyTRRHaiTsf89Bkyotf-9QLUIwSPMHQiV6fuWBFzpyOfy-WYj2pwHrviLovMknqeu4yhZMBwS88fSWVVRWPt7NjIeJjrh2w9kWBH5oubkbJJxvncF-FD5dUvmeXCl5YsT0i9yTV8OS7eEKTRCOtJvnWgMNXUHr2aFxUEk6fcnls2jg0gR75012cjc76QDWUkWWvzT9mnV3LSym9bDIH3UsKov5nRXXbB25o9zwWOBUC1nTYTe9Mv2CiH2nl-MI_N-eZsuc9cm6W6Sppe7KRXOdCNEgs8VIIV8UNi73AuNTnxnUdXW4T2S6GlREmx2cWxvARG88w20fB1mI2CM4f4pdoucDYFlDOtLKZivD9iGVsDTs, line 413: Script terminated by timeout at:
+TimerCallback@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=dLoAtutMU4j8vUf4j-4CgUyRCbVF71lNNoV8Z7Yw_O1iIPkd774j0EGV9i3KicdkT4fREh14nyJVjYQ2PWcGPP--WOGJDYyfrVaLirSnNrfKZQsszUpjga-zMxOool84dc8soTBVD7GGYiQP0a0viFccOISrs1LLe0WpGtxAXSvYFmK9P51eHYU_r8NSkke0g3jdfmZqdV_WMFQRkj9FCw-Ij1OCkwFSN7_whbsYzdGJFEHmSinxxVWUOa3xNJdNZJ_FM3lx6XNkJpGw1la1pqCitOA06Wveeq2lPi8GkoE99BYFnvBjeoeD039rQhyTRRHaiTsf89Bkyotf-9QLUIwSPMHQiV6fuWBFzpyOfy-WYj2pwHrviLovMknqeu4yhZMBwS88fSWVVRWPt7NjIeJjrh2w9kWBH5oubkbJJxvncF-FD5dUvmeXCl5YsT0i9yTV8OS7eEKTRCOtJvnWgMNXUHr2aFxUEk6fcnls2jg0gR75012cjc76QDWUkWWvzT9mnV3LSym9bDIH3UsKov5nRXXbB25o9zwWOBUC1nTYTe9Mv2CiH2nl-MI_N-eZsuc9cm6W6Sppe7KRXOdCNEgs8VIIV8UNi73AuNTnxnUdXW4T2S6GlREmx2cWxvARG88w20fB1mI2CM4f4pdoucDYFlDOtLKZivD9iGVsDTs:413:17
+TimerCallback@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=dLoAtutMU4j8vUf4j-4CgUyRCbVF71lNNoV8Z7Yw_O1iIPkd774j0EGV9i3KicdkT4fREh14nyJVjYQ2PWcGPP--WOGJDYyfrVaLirSnNrfKZQsszUpjga-zMxOool84dc8soTBVD7GGYiQP0a0viFccOISrs1LLe0WpGtxAXSvYFmK9P51eHYU_r8NSkke0g3jdfmZqdV_WMFQRkj9FCw-Ij1OCkwFSN7_whbsYzdGJFEHmSinxxVWUOa3xNJdNZJ_FM3lx6XNkJpGw1la1pqCitOA06Wveeq2lPi8GkoE99BYFnvBjeoeD039rQhyTRRHaiTsf89Bkyotf-9QLUIwSPMHQiV6fuWBFzpyOfy-WYj2pwHrviLovMknqeu4yhZMBwS88fSWVVRWPt7NjIeJjrh2w9kWBH5oubkbJJxvncF-FD5dUvmeXCl5YsT0i9yTV8OS7eEKTRCOtJvnWgMNXUHr2aFxUEk6fcnls2jg0gR75012cjc76QDWUkWWvzT9mnV3LSym9bDIH3UsKov5nRXXbB25o9zwWOBUC1nTYTe9Mv2CiH2nl-MI_N-eZsuc9cm6W6Sppe7KRXOdCNEgs8VIIV8UNi73AuNTnxnUdXW4T2S6GlREmx2cWxvARG88w20fB1mI2CM4f4pdoucDYFlDOtLKZivD9iGVsDTs:372:21
+
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))

@@ -1,0 +1,4 @@
+
+# Exclude geckodriver executable and log files
+geckodriver.exe
+geckodriver.log
