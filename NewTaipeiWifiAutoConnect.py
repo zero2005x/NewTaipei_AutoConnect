@@ -29,7 +29,7 @@ def select_file(prompt, initialdir, filetypes):
 
 # 指定geckodriver WebDriver路徑
 # Specify the geckodriver WebDriver path
-geckodriver_path = r"C:\Users\liangtinglin\Documents\python\newTaipei\geckodriver.exe"  # 替換為你的geckodriver的實際路徑
+geckodriver_path = r"C:\Users\liangtinglin\Documents\python\NewTaipeiWifiAutoConnect\geckodriver.exe"  # 替換為你的geckodriver的實際路徑
                                                                                   # Replace with your actual geckodriver path
 firefox_binary_path = r"C:\Program Files\Mozilla Firefox\firefox.exe"  # 替換為你的Firefox瀏覽器的實際路徑
                                                                        # Replace with your actual Firefox browser path
