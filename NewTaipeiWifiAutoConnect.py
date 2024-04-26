@@ -25,11 +25,11 @@ driver = webdriver.Firefox(service=service, options=options)
 
 try:
      # 造訪Wi-Fi登入頁面
-     driver.get("http://newtaipei.cht.com.tw")
-
+     driver.get("http://newtaipei.cht.com.tw/")
+     
      # 等待登入按鈕可點擊，並進行點擊操作
-     login_button = WebDriverWait(driver, 10).until(
-         EC.element_to_be_clickable((By.XPATH, "//a[img[@alt='免費網路']]"))
+     login_button = WebDriverWait(driver, 15).until(
+         EC.element_to_be_clickable((By.XPATH, "//a[img[@alt='免費網際網路']]"))
      )
      login_button.click()
      logging.info("Login button clicked.")
